@@ -1,7 +1,7 @@
 # LibreNMS Install script
 # NOTE: Script wil update and upgrade currently installed packages.
 # forked from straytripod/LibreNMS-Install
-# created and maintained from rawIce/LibreNMS-Install
+# created and maintained from Navar0ne/LibreNMS-Install
 #!/bin/bash
 
 ##### Check if sudo
