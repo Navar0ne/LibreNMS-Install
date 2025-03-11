@@ -172,7 +172,7 @@ systemctl restart snmpd
 ##### Setup Cron job
 echo "Setup LibreNMS Cron job"
 echo "\n\n###########################################################\n\n"
-cp /opt/librenms/librenms.nonroot.cron /etc/cron.d/librenms
+cp /opt/librenms/dist/librenms.cron /etc/cron.d/librenms
 
 ##### Setup logrotate config
 echo "Setup logrotate config"
